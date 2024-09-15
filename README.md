@@ -29,3 +29,5 @@ This is my personal portfolio, created using HTML, CSS and JavaScript. In this p
 + HTML
 + CSS
 + JavaScript
+
+  this portfolio is deprecated version
